@@ -20,6 +20,11 @@ Commit icon guide:
 - `🎉` = Major update
 - `🐛` = Bug fix
 - `🚧` = Test update
-
 - `🏷️` = Text/label edit
-- `📦` = 
+- `🗑️` = File removed
+
+## 📦 How to contribute
+1. Fork the repository
+2. Make changes in the fork
+3. Create a pull request
+4. Your pull request will be reviewed
