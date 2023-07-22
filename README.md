@@ -9,10 +9,13 @@
 <b>🌐 Online: </b> [Click here to go to the online editor.](https://itsfoxdev.github.io/PasteZone)
 
 ## 🗺️ Roadmap
-- [ ] .txt export
-- [ ] Offline HTML
-- [x] Word counter
-- [x] Text to speech
+`🔴` .txt export<br>
+`🔴` Offline HTML<br>
+`🟢` Word counter<br>
+`🟢` Text to speech<br>
+
+`🔴` = Not started‎‎ ‎ ‎ ‎ ‎ `🟡` = In development‎ ‎ ‎ ‎ ‎ `🟢` = Implemented
+
 
 ## ℹ️ Information
 Commit icon guide:
